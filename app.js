@@ -8,7 +8,7 @@ function fortuneTeller(){
 
 	console.log("You will be a " + jobTitle + " in " + geographicalLocation + " , and married to " + partnersName + " with " + numOfChildren + " kids.");
 }
-
+ 
 fortuneTeller();
 function ageCalculator(){
 
