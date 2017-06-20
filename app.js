@@ -1,6 +1,6 @@
 function fortuneTeller(){
 	var numOfChildren = 3; 
-	var partnersName = "BESTPERSONEVER";
+	var partner sName = "BESTPERSONEVER";
 	var geographicalLocation = "Rich Part of Oahu";
 	var jobTitle = "3D Game Developer";
 
